@@ -1,3 +1,5 @@
+package Part1;
+
 public class DoBee {
     public static void main(String[] args) {
         int x = 1;
