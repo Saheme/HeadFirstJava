@@ -1,0 +1,11 @@
+package Beginer_Guide.P1;
+
+public class ForDemo {
+    public static void main(String[] args) {
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Значение счетчика " + i);
+        }
+        System.out.println("Готово!");
+    }
+}
+
